@@ -1,3 +1,6 @@
+## Deploy
+[![deploy](https://herukucdn
+
 ## Mau deploy?
 ```
 Ambil session.json di termux & deploy seperti mendeploy rest api
