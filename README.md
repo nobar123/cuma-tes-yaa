@@ -1,5 +1,5 @@
 ## Deploy
-[![deploy](https://herukucdn
+[![Deploy](https;//www.herokucdn.com/deploy/button.svg)](https;//heroku.com/deploy?template=https://github.com/nobar123/cuma-tes-yaa/)
 
 ## Mau deploy?
 ```
